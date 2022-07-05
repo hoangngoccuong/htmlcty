@@ -1,0 +1,463 @@
+
+.containner{
+    width: 100%;
+    height: auto;
+    background: url(image/Texture.png);
+}
+.nav{
+    width: 100%;
+    height: 98px;
+    background-color: #c87e6b;
+    padding-top: 49px;
+    
+}
+.nav ul{
+    list-style: none;
+    margin-top: 0px;
+}
+
+.nav ul li{
+    display: inline-block;
+    padding: 0 10px;
+   
+}
+.noidung{
+    font-size: 11px;
+    padding: 0 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+.nav ul li a{
+    text-decoration: none;
+    
+    font-weight: bold;
+    color: white;
+}
+.logo{
+    margin-left: 20px;
+    padding-right: 190px;
+    vertical-align: middle;
+}
+.iconmenu{
+    padding-left: 215px;
+}
+.buttonthoat{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    
+    background-color: #c87e6b;
+  color: white;
+  border: 2px solid white;
+  border-radius: 50px;
+  width: 82px;
+  height: 33px;
+}
+.grid-container{
+    max-height: 802px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+.itemconten{
+    text-align: center;
+}   
+.itemconten h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 58px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    color: #484a4b;
+}
+.itemconten h6{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+    margin-top: 34px;
+    color: #765a33;
+    margin-bottom: 0px;
+  
+}
+.itemconten p{
+    margin-top: 22px;
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    color: #765a33;
+}
+.buton1{
+    width: 78px;
+    height: 31px;
+    color: white;
+  border: 2px solid white;
+  border-radius: 50px;
+  background-color: #787878;
+
+}
+.button2{
+ margin-left: 47px;
+ font-family: 'Montserrat Alternates', sans-serif;
+ font-size: 13px;
+}
+.grid-item{
+    z-index: 1;
+}
+.grid-item img{
+    z-index: 1;
+}
+
+
+.itemimg{
+    margin-top: 93px;
+    margin-left: 569px;
+    text-align: center;
+}
+.giamgia{
+    background-color: #6b502c;
+    width: 100%;
+    height: 264px;
+
+}
+.ten{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 45px;
+    color: white;
+}
+.ten h2{
+    margin-bottom: 0;
+    font-family: 'Playfair Display', serif;
+    font-size: 48px;
+}
+.ten h6{
+margin-top: 0;
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 17px;
+}
+.tieude{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 129px ;
+}
+.tieude img{
+    margin-left: 56px;
+    margin-right: 56px;
+    margin-top: 119px;
+}
+.tieude div{
+    margin-top:  148px  ;
+}
+.tieude h2{
+    margin-top:  147px  ;
+    font-family: 'Playfair Display', serif;
+    font-size: 58px;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: #484a4b;
+
+}
+.tieude a {
+    margin-top: 15px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+    color: #765a33;
+}
+.cot{
+   
+    /* padding: 20px auto; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    /* grid-template-columns: 356px 356px 356px 356px;
+    grid-template-rows: 470px ; */
+    margin-left: 54px;
+    margin-right: 54px;
+    grid-gap: 50px;
+}
+
+.cot img{
+    width:100%;
+    height: 292px;
+}
+.griditem {
+    
+    border: 1px solid #ccc;
+  }
+a.icon img{
+    width: 19px;
+    height: 17px;
+    image-rendering: pixelated;
+   /* margin-top: 400px;  */
+    
+}
+.icon{
+  margin-left: 261px;
+
+}
+.text{
+    margin-left: 42px;
+    margin-right: 42px;
+   
+}
+.text h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 29px;
+    color: #484a4b;
+}
+.text p{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 13px;
+    color: #765a33;
+}
+.text button {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10px;
+    background: #454545;
+    border: 2px solid white;
+    color: white;
+  border-radius: 50px;
+  width: 102px;
+  height: 25px;
+}
+.chuyentrang{
+    margin-top: 63px;
+    display: flex;
+    justify-content: space-around;
+}
+.tieude2{
+    text-align: center;
+    margin-top: 119px;
+}
+.tieude2 h3{
+    margin: 0 0;
+    font-family: 'Playfair Display', serif;
+    font-size: 58px;
+    color: #484a4b;
+}
+.tieude2 p{
+    margin-top: 25px;
+    margin: 0 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+    color: #765a33;
+
+}
+.anhchunhat1{
+    float: right;
+    position: relative;
+    top: 160px;
+    right: 155px;
+    z-index: -1;
+}
+.video{
+    padding-top: 132px;
+    margin-left: 13%;
+    margin-right: 13%;
+    z-index: 0;
+
+}
+.hinhchunhat2{
+    float: left;
+    position: relative;
+    z-index: -1;
+    left: 162px;
+    top: -232px;
+   
+    
+}
+.img1{
+    position: relative;
+    float: left;
+    top: -47px;
+   
+
+}
+.img2{
+    position: relative;
+    float: right;
+   top: -174px ;
+}
+.play{
+
+}
+.sale{
+    height: 392px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.saleconten{
+   
+    text-align: center;
+    background-color: #dcc57c;
+}
+.salehinhanh{
+    width: 50%;
+}
+.salehoa{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.buttonsale{
+    font-family: 'Playfair Display', serif;
+    font-size: 27px;
+    margin-top: 50px;
+    background-color: #424242;
+    color: white;
+    border-radius: 50px;
+    width: 273px;
+    height: 45px;
+}
+.salehoa{
+    
+   
+    
+}
+.salehoa h1{
+    margin: 0 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 164px;
+    color: #424242;
+}
+.saleconten p {
+    margin: 0 0 0 0;
+    font-size: 29px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #424242;
+    margin-bottom: 20px;
+}
+.gioithieu1{
+    display: flex;
+}
+.anhgt3{
+    position: relative;
+    
+    z-index: -1;
+    margin-left: 56px; 
+    margin-top: -284px;
+}
+.contengioithieu1 h1{
+    font-family: 'Playfair Display', serif;
+    margin-left: 88px;
+    font-size: 58px;
+    color: #484a4b;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.contengioithieu1 p{
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    color: #765a33;
+
+}
+.contengioithieu1 button{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10px;
+    margin-left: 95px;
+    background-color: #424242;
+    color: white;
+    border-radius: 50px;
+    width: 102px;
+    height: 23px;
+}
+.gioithieu2{
+    margin-top: 180px;
+    display: flex;
+}
+.contengioithieu2 h1{
+    font-family: 'Playfair Display', serif;
+    margin-left: 126px;
+    font-size: 58px;
+    color: #484a4b;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.contengioithieu2 p{
+    margin-left: 126px;
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    color: #765a33;
+
+}
+.contengioithieu2 button{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10px;
+    margin-left: 126px;
+    background-color: #424242;
+    color: white;
+    border-radius: 50px;
+    width: 102px;
+    height: 23px;
+}
+.gioithieu3{
+    display: flex;
+}
+.anhgt3{
+    position: relative;
+    
+    z-index: -1;
+    margin-left: 56px; 
+    margin-top: -284px;
+}
+.contengioithieu3 h1{
+    font-family: 'Playfair Display', serif;
+    margin-left: 88px;
+    font-size: 58px;
+    color: #484a4b;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.contengioithieu3 p{
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    margin-left: 88px;
+    color: #765a33;
+
+}
+.contengioithieu3 button{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 10px;
+    margin-left: 95px;
+    background-color: #424242;
+    color: white;
+    border-radius: 50px;
+    width: 102px;
+    height: 23px;
+}
+.thongtin{
+    text-align: center;
+    margin-top: 261px;
+}
+.thongtin h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 58px;
+    color: #484a4b;
+
+}
+.thongtin p{
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    color: #484a4b;
+    
+}
+.form input{
+    width: 60%;
+    margin-top: 38px;
+    height: 60px;
+}
+.form textarea{
+
+    margin-top: 38px;
+    width: 60%;
+    height: 140px;
+}
+.form button{
+    width: 203px;
+    height: 52px;
+    margin-top: 38px;
+    background-color: #c87e6b;
+    color: white;
+    border-radius: 50px;
+
+}
